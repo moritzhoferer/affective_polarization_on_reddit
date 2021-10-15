@@ -1,0 +1,6 @@
+# Environment
+venv/
+
+# data and graphics directory
+data/
+graphics/
