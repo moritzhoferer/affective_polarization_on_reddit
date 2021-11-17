@@ -1,0 +1,17 @@
+name,category,political_ideology
+,baseline,all
+politics,moderate,moderate
+democrats,partisan,democrat
+Republican,partisan,republican
+communism,partisan,democrat
+socialism,partisan,democrat
+VoteBlue,partisan,democrat
+Conservative,partisan,republican
+TheNewRight,partisan,republican
+PoliticalDiscussion,moderate,moderate
+PoliticalOpinions,moderate,moderate
+Ask_Politics,moderate,moderate
+NeutralPolitics,moderate,moderate
+AmericanPolitics,moderate,moderate
+uspolitics,moderate,moderate
+republicans,partisan,republican
